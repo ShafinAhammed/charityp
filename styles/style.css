@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container {
+    margin-left: 150px;
+    margin-right: 150px;
+  }
+.btn-primary {
+    background-color: #f74665;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+  }
+/* header banner section */
+.header-section{
+    padding: 20% 24%;
+}
+.head-banner{
+    background-image: url(../images/hero.jpg.webp);
+}
+.banner-title {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.banner-description {
+    color: #dfdbdb;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.banner-button {
+    text-align: center;
+}
+/* donate section */
+.donate-section{
+    margin-top: 70px;
+    text-align: center;
+}
+.donate-title{
+    font-size: 50px;
+    
+}
