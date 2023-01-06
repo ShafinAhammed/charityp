@@ -14,6 +14,10 @@
     color: white;
     font-size: 18px;
   }
+  hr{
+    color: #ccc8c8;
+    margin-bottom: 15px;
+}
 /* header banner section */
 .header-section{
     padding: 20% 24%;
@@ -75,7 +79,49 @@
     text-align: center;
     margin-bottom: 20px;
 }
-hr{
-    color: #ccc8c8;
+
+/* donate plan section */
+.donate-plan{
+    margin-top: 70px;
+}
+.plan-writings{
+    text-align: center;
+}
+.plan-title{
+    font-size: 50px;
     margin-bottom: 15px;
+}
+.plan-description{
+    color: #6a6868;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.plan-box{
+    display: flex;
+    gap: 15px;
+    margin-bottom: 70px;
+}
+.box-img{
+    margin-bottom: 8px;
+}
+.box-title{
+    margin-bottom: 12px;
+    font-size: 20px;
+}
+.box-description{
+    color: #6a6868;
+    font-size: 17px;
+}
+.plan-box1 {
+    padding: 40px 25px;
+    background: aliceblue;
+}
+.plan-box2 {
+    padding: 40px 25px;
+    background: beige;
+}
+.plan-box3 {
+    padding: 40px 25px;
+    background: beige;
 }
